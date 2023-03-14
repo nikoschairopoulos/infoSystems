@@ -1,3 +1,3 @@
 # infoSystems
 
-Το git αυτό περιλαμβάνει το script για την εξαμηνιαία εργασία για το μάθημα Ανάλυση και Σχεδιασμός Πληροφοριακών Συστημάτων. 
+This folder contains some Logfiles from a comparison Project about TimeSeries Databases 
