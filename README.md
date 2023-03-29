@@ -1,3 +1,3 @@
 # infoSystems
 
-This folder contains some Logfiles from a comparison Project about TimeSeries Databases 
+This folder contains some Logfiles from a  Project about TimeSeries Databases 
